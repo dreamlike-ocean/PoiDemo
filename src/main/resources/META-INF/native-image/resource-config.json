@@ -1,0 +1,121 @@
+{
+  "resources":{
+  "includes":[{
+    "pattern":"\\QMETA-INF/services/java.time.zone.ZoneRulesProvider\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/java.util.spi.ResourceBundleControlProvider\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/javax.xml.parsers.DocumentBuilderFactory\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/javax.xml.parsers.SAXParserFactory\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/javax.xml.stream.XMLInputFactory\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/javax.xml.xpath.XPathFactory\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/org.apache.xerces.xni.parser.XMLParserConfiguration\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/org.apache.xmlbeans.impl.store.PathDelegate.SelectPathInterface\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/org.apache.xmlbeans.impl.store.QueryDelegate.QueryInterface\\E"
+  }, {
+    "pattern":"\\Qorg/apache/xerces/impl/msg/SAXMessages.properties\\E"
+  }, {
+    "pattern":"\\Qorg/apache/xerces/impl/msg/SAXMessages_zh.properties\\E"
+  }, {
+    "pattern":"\\Qorg/apache/xerces/impl/msg/SAXMessages_zh_Hans.properties\\E"
+  }, {
+    "pattern":"\\Qorg/apache/xerces/impl/msg/SAXMessages_zh_Hans_US.properties\\E"
+  }, {
+    "pattern":"\\Qorg/apache/xerces/impl/msg/SAXMessages_zh_US.properties\\E"
+  }, {
+    "pattern":"\\Qorg/apache/xmlbeans/impl/regex/message.properties\\E"
+  }, {
+    "pattern":"\\Qorg/apache/xmlbeans/impl/regex/message_zh.properties\\E"
+  }, {
+    "pattern":"\\Qorg/apache/xmlbeans/impl/regex/message_zh_Hans.properties\\E"
+  }, {
+    "pattern":"\\Qorg/apache/xmlbeans/impl/regex/message_zh_Hans_US.properties\\E"
+  }, {
+    "pattern":"\\Qorg/apache/xmlbeans/impl/regex/message_zh_US.properties\\E"
+  }, {
+    "pattern":"\\Qorg/slf4j/impl/StaticLoggerBinder.class\\E"
+  }, {
+    "pattern":"\\Qschemaorg_apache_xmlbeans/element/URI_SHA_1_640FACC0F3ED2458258952465E2A4DCFAE01C1D6/sst.xsb\\E"
+  }, {
+    "pattern":"\\Qschemaorg_apache_xmlbeans/element/URI_SHA_1_640FACC0F3ED2458258952465E2A4DCFAE01C1D6/styleSheet.xsb\\E"
+  }, {
+    "pattern":"\\Qschemaorg_apache_xmlbeans/element/URI_SHA_1_B1DE9718F9D20DF6F07682D1D4E3EDC19321D557/theme.xsb\\E"
+  }, {
+    "pattern":"\\Qschemaorg_apache_xmlbeans/system/sD023D6490046BA0250A839A9AD24C443/ctborderf935type.xsb\\E"
+  }, {
+    "pattern":"\\Qschemaorg_apache_xmlbeans/system/sD023D6490046BA0250A839A9AD24C443/ctborders0d66type.xsb\\E"
+  }, {
+    "pattern":"\\Qschemaorg_apache_xmlbeans/system/sD023D6490046BA0250A839A9AD24C443/ctcellstylexfsa81ftype.xsb\\E"
+  }, {
+    "pattern":"\\Qschemaorg_apache_xmlbeans/system/sD023D6490046BA0250A839A9AD24C443/ctcellxfs1322type.xsb\\E"
+  }, {
+    "pattern":"\\Qschemaorg_apache_xmlbeans/system/sD023D6490046BA0250A839A9AD24C443/ctdxfa3b1type.xsb\\E"
+  }, {
+    "pattern":"\\Qschemaorg_apache_xmlbeans/system/sD023D6490046BA0250A839A9AD24C443/ctdxfsb26atype.xsb\\E"
+  }, {
+    "pattern":"\\Qschemaorg_apache_xmlbeans/system/sD023D6490046BA0250A839A9AD24C443/ctfill550ctype.xsb\\E"
+  }, {
+    "pattern":"\\Qschemaorg_apache_xmlbeans/system/sD023D6490046BA0250A839A9AD24C443/ctfills2c6ftype.xsb\\E"
+  }, {
+    "pattern":"\\Qschemaorg_apache_xmlbeans/system/sD023D6490046BA0250A839A9AD24C443/ctfont14d8type.xsb\\E"
+  }, {
+    "pattern":"\\Qschemaorg_apache_xmlbeans/system/sD023D6490046BA0250A839A9AD24C443/ctfonts6623type.xsb\\E"
+  }, {
+    "pattern":"\\Qschemaorg_apache_xmlbeans/system/sD023D6490046BA0250A839A9AD24C443/ctnumfmt3870type.xsb\\E"
+  }, {
+    "pattern":"\\Qschemaorg_apache_xmlbeans/system/sD023D6490046BA0250A839A9AD24C443/ctnumfmtsb58btype.xsb\\E"
+  }, {
+    "pattern":"\\Qschemaorg_apache_xmlbeans/system/sD023D6490046BA0250A839A9AD24C443/ctrsta472type.xsb\\E"
+  }, {
+    "pattern":"\\Qschemaorg_apache_xmlbeans/system/sD023D6490046BA0250A839A9AD24C443/ctsst44f3type.xsb\\E"
+  }, {
+    "pattern":"\\Qschemaorg_apache_xmlbeans/system/sD023D6490046BA0250A839A9AD24C443/ctstylesheet4257type.xsb\\E"
+  }, {
+    "pattern":"\\Qschemaorg_apache_xmlbeans/system/sD023D6490046BA0250A839A9AD24C443/cttablestylea24ctype.xsb\\E"
+  }, {
+    "pattern":"\\Qschemaorg_apache_xmlbeans/system/sD023D6490046BA0250A839A9AD24C443/cttablestyleelementa658type.xsb\\E"
+  }, {
+    "pattern":"\\Qschemaorg_apache_xmlbeans/system/sD023D6490046BA0250A839A9AD24C443/cttablestyles872ftype.xsb\\E"
+  }, {
+    "pattern":"\\Qschemaorg_apache_xmlbeans/system/sD023D6490046BA0250A839A9AD24C443/ctxf97f7type.xsb\\E"
+  }, {
+    "pattern":"\\Qschemaorg_apache_xmlbeans/system/sD023D6490046BA0250A839A9AD24C443/index.xsb\\E"
+  }, {
+    "pattern":"\\Qschemaorg_apache_xmlbeans/system/sD023D6490046BA0250A839A9AD24C443/sstf81fdoctype.xsb\\E"
+  }, {
+    "pattern":"\\Qschemaorg_apache_xmlbeans/system/sD023D6490046BA0250A839A9AD24C443/stcellstylexfid70c7type.xsb\\E"
+  }, {
+    "pattern":"\\Qschemaorg_apache_xmlbeans/system/sD023D6490046BA0250A839A9AD24C443/stdxfid9fdctype.xsb\\E"
+  }, {
+    "pattern":"\\Qschemaorg_apache_xmlbeans/system/sD023D6490046BA0250A839A9AD24C443/stnumfmtid76fbtype.xsb\\E"
+  }, {
+    "pattern":"\\Qschemaorg_apache_xmlbeans/system/sD023D6490046BA0250A839A9AD24C443/sttablestyletype9936type.xsb\\E"
+  }, {
+    "pattern":"\\Qschemaorg_apache_xmlbeans/system/sD023D6490046BA0250A839A9AD24C443/stxstring1198type.xsb\\E"
+  }, {
+    "pattern":"\\Qschemaorg_apache_xmlbeans/system/sD023D6490046BA0250A839A9AD24C443/stylesheet5d8bdoctype.xsb\\E"
+  }, {
+    "pattern":"\\Qschemaorg_apache_xmlbeans/system/sD023D6490046BA0250A839A9AD24C443/themefd26doctype.xsb\\E"
+  }, {
+    "pattern":"java.xml:\\Qjdk/xml/internal/jdkcatalog/JDKCatalog.xml\\E"
+  }]},
+  "bundles":[{
+    "name":"org.apache.xerces.impl.msg.SAXMessages",
+    "locales":["zh-Hans-US"]
+  }, {
+    "name":"org.apache.xmlbeans.impl.regex.message",
+    "locales":["zh-Hans-US"]
+  }, {
+    "name":"sun.text.resources.cldr.FormatData",
+    "locales":["und", "zh", "zh-Hans"]
+  }, {
+    "name":"sun.util.resources.cldr.CalendarData",
+    "locales":["und"]
+  }]
+}
